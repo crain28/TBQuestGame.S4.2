@@ -1,0 +1,6 @@
+E:\Cit 195\Qg-1\TBQuestGame\TBQuestGame.S4\obj\Debug\TBQuestGame.S4.csprojAssemblyReference.cache
+E:\Cit 195\Qg-1\TBQuestGame\TBQuestGame.S4\obj\Debug\PresentationLayer\GameSessionView.g.cs
+E:\Cit 195\Qg-1\TBQuestGame\TBQuestGame.S4\obj\Debug\PresentationLayer\PlayerSetupView.g.cs
+E:\Cit 195\Qg-1\TBQuestGame\TBQuestGame.S4\obj\Debug\TBQuestGame_MarkupCompile.cache
+E:\Cit 195\Qg-1\TBQuestGame\TBQuestGame.S4\obj\Debug\TBQuestGame_MarkupCompile.lref
+E:\Cit 195\Qg-1\TBQuestGame\TBQuestGame.S4\obj\Debug\App.g.cs
